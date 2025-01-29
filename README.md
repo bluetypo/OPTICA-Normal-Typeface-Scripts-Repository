@@ -16,10 +16,17 @@ Visit the official [OPTICA typeface](https://bluetypo.com/site/en/2017/04/23/opt
 
 ```
 .
-├── README.md        # Repository documentation
-├── screenshots/     # Visual examples of the scripts in action
-├── scripts/         # Python scripts for Glyphs app
-└── LICENSE          # License file
+├── README.md                  # Documentación del repositorio
+├── LICENSE                    # Archivo de licencia
+├── screenshots/               # Ejemplos visuales de los scripts en acción
+├── scripts/                   # Scripts de Python para la aplicación Glyphs
+│   ├── Align Extreme Nodes    # Alinea los nodos extremos
+│   ├── Identify Global Guides # Identifica las guías globales
+│   ├── Lock Global Guides     # Bloquea las guías globales
+│   ├── Remove Curve Handle    # Elimina el manejador de curvas
+│   ├── Reverse Glyph Strokes  # Invierte los trazos de los glifos
+│   └── Unlock Global Guides   # Desbloquea las guías globales
+└── LICENSE                    # License file
 ```
 
 ---
